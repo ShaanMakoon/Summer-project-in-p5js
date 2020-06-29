@@ -169,13 +169,7 @@ function draw() {
   circle(shaan_cloudx + 15, 90 + 6, 10 + 6)
   circle(shaan_cloudx + 15, 99, 12 + 6)
   
-  shaan_cloudx = shaan_cloudx += 2;
-  
-  if(shaan_cloudx > width){
-   shaan_cloudx = 0; 
-    
-  }
-
+ 
   //bird();
 
 
